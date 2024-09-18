@@ -1,0 +1,30 @@
+# Project exclude paths
+/.gradle/
+/1. Fundamentals/Structure/1.2 Say Hello/build/
+/1. Fundamentals/Variables/1.3 Cafe Receipt/build/
+/2. Flow Control/Conditionals/2.1 Client Points/build/
+/2. Flow Control/Conditionals/2.2 Roller Coaster/build/
+/2. Flow Control/Conditionals/Nesting Conditionals/out/
+/2. Flow Control/Conditionals/Nesting Conditionals/out/production/classes/
+/2. Flow Control/Loops/2.4 Odd Selector/out/
+/2. Flow Control/Loops/2.4 Odd Selector/out/production/classes/
+/2. Flow Control/Loops/2.5 While Using Modulus/out/
+/2. Flow Control/Loops/2.5 While Using Modulus/out/production/classes/
+/2. Flow Control/Loops/2.6 Breaking The Ice/out/
+/2. Flow Control/Loops/2.6 Breaking The Ice/out/production/classes/
+/2. Flow Control/Loops/2.8 Hundredth Prime/build/
+/2. Flow Control/Loops/2.8 Hundredth Prime/out/
+/2. Flow Control/Loops/2.8 Hundredth Prime/out/production/classes/
+/2. Flow Control/Loops/break and continue/out/
+/2. Flow Control/Loops/break and continue/out/production/classes/
+/2. Flow Control/Loops/Nesting Loops and Conditionals/out/
+/2. Flow Control/Loops/Nesting Loops and Conditionals/out/production/classes/
+/2. Flow Control/Loops/The while Loop/out/
+/2. Flow Control/Loops/The while Loop/out/production/classes/
+/3. Objects and Methods/Methods/3.4 Estimate Age/build/
+/3. Objects and Methods/Methods/3.4 Estimate Age/out/
+/3. Objects and Methods/Methods/3.4 Estimate Age/out/production/classes/
+/3. Objects and Methods/Methods/3.5 Make it A Combo/build/
+/3. Objects and Methods/Objects/3.2 Shoe Maker/build/
+/3. Objects and Methods/Objects/Attributes/out/
+/3. Objects and Methods/Objects/Attributes/out/production/classes/

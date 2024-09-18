@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "true"
+    is_correct: true
+  - text: "false"
+    is_correct: false
+files:
+  - name: src/BooleanLogic.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 13 Sep 2024 20:34:25 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: true

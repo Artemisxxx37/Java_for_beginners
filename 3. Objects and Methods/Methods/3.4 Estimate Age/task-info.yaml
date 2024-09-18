@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/Person.java
+    visible: true
+    placeholders:
+      - offset: 443
+        length: 43
+        placeholder_text: /* Print <name> lived to an age of <age> */
+        initial_state:
+          length: 43
+          offset: 359
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFPQCXptgL7qAdd7gsiNtw2t0TmfEFJVsbmxtGW0kaKZ0TOaawaCWjR5C313GAwoJzoSr1wr9Vj99m8yQUEBp71A=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 17 Sep 2024 20:02:02 UTC"
+record: -1
